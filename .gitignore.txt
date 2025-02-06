@@ -8,7 +8,7 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.db
-.ipynb_checkpoints
+.ipynb_checkpoints/
 .jupyter_ystore.db
 
 # Ignore all .env files
