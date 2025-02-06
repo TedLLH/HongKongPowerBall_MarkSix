@@ -10,6 +10,7 @@ Thumbs.db
 *.db
 .ipynb_checkpoints/
 .jupyter_ystore.db
+**/*.ipynb_checkpoints/
 
 # Ignore all .env files
 .env
